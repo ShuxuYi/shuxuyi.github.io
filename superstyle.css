@@ -79,7 +79,7 @@ body h3 {
 
 #menu li a {
     float:left;
-    color:#00FF00;
+    color:white;
     text-decoration:none;
     height:30px;
     padding:9px 15px 0;
@@ -88,8 +88,8 @@ body h3 {
 }
 
 #menu li a:hover,.current {
-    color:#FFFFFF;
-    background: #606060;
+    color:#00FF00;
+/*    background: #606060;*/
 /*     text-decoration:none; */
 /*     border: 1px solid #FFFFFF; */
 }
