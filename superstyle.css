@@ -62,25 +62,24 @@ body h3 {
     position:relative;top:-53px; left:-6px;
     display:block;
     height:33px;
-    font-size:1.em;
+    font-size:1.5em;
     font-family:'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter';
     /*border:1px solid #D0D0D0;*/
     margin:0;
     padding: 0 0 0 0px;
     font-weight:100;
-    color: #00ff00
   }
   
 #menu li {
     display:block;
-    float:center;
+    float:left;
     margin:0;
     padding:0px;
 }
 
 #menu li a {
-    float:center;
-    color:#E0E0E0;
+    float:left;
+    color:#00FF00;
     text-decoration:none;
     height:30px;
     padding:9px 15px 0;
