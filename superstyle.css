@@ -63,6 +63,7 @@ body h3 {
     display:block;
     height:33px;
     font-size:1.em;
+    font-family:courier new
     /*border:1px solid #D0D0D0;*/
     margin:0;
     padding: 0 0 0 0px;
@@ -71,13 +72,13 @@ body h3 {
   
 #menu li {
     display:block;
-    float:left;
+    float:center;
     margin:0;
     padding:0px;
 }
 
 #menu li a {
-    float:left;
+    float:center;
     color:#E0E0E0;
     text-decoration:none;
     height:30px;
