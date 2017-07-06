@@ -71,6 +71,7 @@ body h3 {
   }
   
 #menu li {
+    color:#00FF00;
     display:block;
     float:left;
     margin:0;
@@ -78,13 +79,13 @@ body h3 {
 }
 
 #menu li a {
-    color:#00FF00;
-/*    float:left;
-/*    color:white;
-/*    text-decoration:none;
-/*    height:30px;
-/*    padding:9px 15px 0;
-/*    font-weight:normal;
+/*    color:#00FF00;*/
+    float:left;
+    color:white;
+    text-decoration:none;
+    height:30px;
+    padding:9px 15px 0;
+    font-weight:normal;
 /*     background: #787878; */
 }
 
