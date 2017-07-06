@@ -72,15 +72,15 @@ body h3 {
   
 #menu li {
     color:#00FF00;
-    display:block;
-    float:left;
+/*    display:block;*/
+    float:center;
     margin:0;
     padding:0px;
 }
 
 #menu li a {
 /*    color:#00FF00;*/
-    float:left;
+    float:center;
     color:white;
     text-decoration:none;
     height:30px;
