@@ -97,9 +97,9 @@ body h3 {
 }
 
 #menu .current a {
-    color:#FFFFFF;
+    color:#00FF00;
     font-weight:100;
-    background: #303030;
+/*    background: #303030;*/
 }
 
 #portrait {
